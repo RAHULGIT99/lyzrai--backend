@@ -7,3 +7,7 @@
 - 🔄 Requests – HTTP utility used for both GitHub and Lyzr interactions.
 - 🔑 python-dotenv – loads local environment variables (tokens, API keys) for secure configuration.
 - ☁️ Hugging Face Spaces (Planned Hosting) – deploy backend for sharing the end-to-end reviewer experience.
+
+Create a .env in the same directory and replace your github auth token:
+auth_token=#your_github_token
+
