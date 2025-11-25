@@ -11,5 +11,6 @@
 Create a .env in the same directory and replace your github auth token:
 
 auth_token = #your_github_token
+
 lyzr_api_key = #your lyzrapikey
 
